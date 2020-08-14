@@ -96,7 +96,7 @@ curl -i http://localhost:80/snapshot
 curl -i http://localhost:81/snapshot
 ```
 
-##Test Suite
+## Test Suite
 
 In order to run our test suite, please run the following command from the project root:
 
