@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/nsalerni/ThunderDB/raw/main/4905492e-99a4-426e-947b-5bb51dbb216d_200x200.png">
+</p>
+
 ## README
 
 ThunderDB is a simple application to get started with, all you need are a few simple python dependencies and a data file to load the key-value store with. The README is split into two sections, one will cover how to get started with the single-node approach, and the other will cover how to run in distributed-mode, which requires an extra tool to simulate the other nodes.
