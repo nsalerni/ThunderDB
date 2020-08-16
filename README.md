@@ -4,7 +4,7 @@
 
 ## Overview
 
-ThunderDB is a simple application to get started with, all you need are a few simple python dependencies and a data file to load the key-value store with. The README is split into two sections, one will cover how to get started with the single-node approach, and the other will cover how to run in distributed-mode, which requires an extra tool to simulate the other nodes.
+ThunderDB is a distributed key-value store that is simple to get started with, all you need are a few simple python dependencies and a data file to load the key-value store with. The README is split into two sections, one will cover how to get started with the single-node approach, and the other will cover how to run in distributed-mode, which requires an extra tool to simulate the other nodes.
 
 ## Single-Node 
 
