@@ -77,10 +77,10 @@ Once you have docker installed, you are ready to start your distributed cluster 
 # Run in single-node mode with the path to the initial data file
 # Example data files are located in ./sample_data/ in the root of the repo
 # Since we are using Docker, any data file path must be relative to the project root as the directory will be mapped into Docker. 
-./distributed_nodes_server.sh sample_data/data_deo_small.txt
+./distributed_nodes_server.sh sample_data/data_demo_small.txt
 
 # You can optionally pass an additional argument to get less or more nodes in your cluster (default: 3)
-./distributed_nodes_server.sh sample_data/data_deo_small.txt 4
+./distributed_nodes_server.sh sample_data/data_demo_small.txt 4
 ```
 
 Once you start the server, you will be able to immediately make requests. *Note: please keep in mind that until your entire data file is loaded you may not be able to get specific results you are looking for.*
